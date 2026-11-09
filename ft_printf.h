@@ -6,12 +6,12 @@
 /*   By: aelberka <aelberka@student.1337.ma>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/11/03 00:32:12 by aelberka          #+#    #+#             */
-/*   Updated: 2026/11/07 16:59:06 by aelberka         ###   ########.fr       */
+/*   Updated: 2026/11/08 17:49:29 by aelberka         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#ifndef FT_PRINTF
-# define FT_PRINTF
+#ifndef FT_PRINTF_H
+# define FT_PRINTF_H
 
 # include <stdarg.h>
 # include <unistd.h>
